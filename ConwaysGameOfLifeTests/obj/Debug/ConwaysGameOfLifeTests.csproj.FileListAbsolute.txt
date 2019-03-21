@@ -1,0 +1,9 @@
+c:\users\acaula\documents\visual studio 2015\Projects\ConwaysGameOfLife\ConwaysGameOfLifeTests\bin\Debug\ConwaysGameOfLifeTests.dll
+c:\users\acaula\documents\visual studio 2015\Projects\ConwaysGameOfLife\ConwaysGameOfLifeTests\bin\Debug\ConwaysGameOfLifeTests.pdb
+c:\users\acaula\documents\visual studio 2015\Projects\ConwaysGameOfLife\ConwaysGameOfLifeTests\bin\Debug\ConwaysGameOfLife.exe
+c:\users\acaula\documents\visual studio 2015\Projects\ConwaysGameOfLife\ConwaysGameOfLifeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\acaula\documents\visual studio 2015\Projects\ConwaysGameOfLife\ConwaysGameOfLifeTests\bin\Debug\ConwaysGameOfLife.pdb
+c:\users\acaula\documents\visual studio 2015\Projects\ConwaysGameOfLife\ConwaysGameOfLifeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\acaula\documents\visual studio 2015\Projects\ConwaysGameOfLife\ConwaysGameOfLifeTests\obj\Debug\ConwaysGameOfLifeTests.csprojResolveAssemblyReference.cache
+c:\users\acaula\documents\visual studio 2015\Projects\ConwaysGameOfLife\ConwaysGameOfLifeTests\obj\Debug\ConwaysGameOfLifeTests.dll
+c:\users\acaula\documents\visual studio 2015\Projects\ConwaysGameOfLife\ConwaysGameOfLifeTests\obj\Debug\ConwaysGameOfLifeTests.pdb
